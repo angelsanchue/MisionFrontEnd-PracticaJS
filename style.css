@@ -1,0 +1,95 @@
+.fondoRojo{
+    background-color: red;
+    
+    height: 35em;
+    width: 25em;
+}
+
+.botonesSuperiores{
+    height: 3.5em;
+    
+}
+
+.btnAzul{
+    height: 3.5em;
+    width: 3.5em;
+    background-color: aqua;
+    border-radius: 50%;
+}
+.btnRojo{
+    height: 1.6em;
+    width: 1.6em;
+    background-color: #DD082F;
+    border-radius: 50%;
+}
+.btnAmarillo{
+    height: 1.6em;
+    width: 1.6em;
+    background-color: #FFCC02;
+    border-radius: 50%;
+}
+.btnVerde{
+    height: 1.6em;
+    width: 1.6em;
+    background-color: #2FF901;
+    border-radius: 50%;
+}
+
+.fondoBody{
+    background-color: gray;
+
+}
+
+.btn-buscar{
+    background-color: yellow;
+    color:brown;
+    width: 6em;
+
+}
+
+.tarjetaPokemon{
+    background-color: azure;
+    border-radius: 1.5em;
+    height: 15em;
+    width: 22em;
+    border-color: #5F5F5F;
+    border-width: .5em;
+    border-style: solid;
+    
+
+}
+
+.inputPokemon{
+    width: 17em;
+    background-color: #FFCC02;
+    border-radius: 1em;
+}
+.btnRojoBuscar{
+    height: 3.5em;
+    width: 3.5em;
+    background-color: rgb(99, 3, 3);
+    border-radius: 50%;
+    box-shadow: #090909;
+    
+}
+
+.btnVerdeLargo{
+    height: 1em;
+    width: 5em;
+    background-color: #2FF901;
+    border-radius: 3em;
+}
+
+.btnAmarilloLargo{
+    height: 1em;
+    width: 5em;
+    background-color: #FFCC02;
+    border-radius: 3em;
+}
+
+.btnAzulMedio{
+    height: 3.5em;
+    width: 3.5em;
+    background-color: #519AFB;
+    border-radius: 50%;
+}
